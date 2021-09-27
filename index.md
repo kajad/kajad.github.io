@@ -1,6 +1,6 @@
 ## In short
 
-I am a linguist/researcher interested in the design, annotation and evaluation of **digital language resources**, and their use in **corpus linguistic research**. I currently split my time between [Department of Translation](https://prevajalstvo.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, [Laboratory for Cognitive Modelling](https://www.fri.uni-lj.si/en/laboratory/lkm) at the Faculty of Computer and Information Science, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute. 
+I am a linguist/researcher interested in design, creation and evaluation of **digital language resources**, and their use in **corpus linguistic research**. I currently split my time between [Department of Translation](https://prevajalstvo.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, [Laboratory for Cognitive Modelling](https://www.fri.uni-lj.si/en/laboratory/lkm) at the Faculty of Computer and Information Science, UL, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute. 
 
 For more info, see my full CV here.
 
@@ -24,16 +24,12 @@ For more info, see my full CV here.
 For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliographies/si/webBiblio/bib201_20210923_153106_36491.html).
 
 ### Past projects
-- New grammar of contemporary standard Slovene
-- Collocations as a Basis for Language Description
-- Slovene in the Palm of Your Hand 
-- TextLink – Structuring Discourse in Multilingual Europe (COST-EU)
-- Language Resources Hub
-- PARSEME – Parsing and multi-word expressions (COST-EU)
-- Language Technology Seminars for Teachers
-- Communication in Slovene
+- [New grammar of contemporary standard Slovene: sources and methods](https://slovnica.ijs.si/?lang=en)
+- [Collocations as a Basis for Language Description: Semantic and Temporal Perspectives](https://www.cjvt.si/kolos/en/)
+- [Slovene in the Palm of Your Hand](http://projekt.slo-na-dlani.si/en/)
+- [TextLink – Structuring Discourse in Multilingual Europe](http://www.textlink.ii.metu.edu.tr/) (COST-EU)
+- [Language Resources Hub](https://viri.trojina.si/)
+- [PARSEME – Parsing and multi-word expressions](https://typo.uni-konstanz.de/parseme/) (COST-EU)
+- [Language Technology Seminars for Teachers](http://ucitelji.sdjt.si/)
+- [Communication in Slovene](http://eng.slovenscina.eu/)
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
