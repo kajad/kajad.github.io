@@ -18,12 +18,6 @@ For more info, see my [full CV here](https://github.com/kajad/kajad.github.io/bl
 - [ELEXIS – European Lexicographic Infrastructure](https://elex.is/) (H2020-EU, 2018‒2022)
 - [Language Resources and Technologies for Slovene](http://www.sicris.si/public/jqm/prg.aspx?lang=eng&opdescr=search&opt=2&subopt=700&code1=cmn&code2=auto&psize=1&hits=1&page=1&count=&search_term=pedago%C5%A1ka%20fakulteta&id=17683&slng=&order_by=) (Slovenian Research Agency, 2018-) 
 
-
-
-### Selected publications
-
-For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliographies/si/webBiblio/bib201_20210923_153106_36491.html).
-
 ### Past projects
 - [New grammar of contemporary standard Slovene: sources and methods](https://slovnica.ijs.si/?lang=en)
 - [Collocations as a Basis for Language Description: Semantic and Temporal Perspectives](https://www.cjvt.si/kolos/en/)
@@ -33,6 +27,10 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 - [PARSEME – Parsing and multi-word expressions](https://typo.uni-konstanz.de/parseme/) (COST-EU)
 - [Language Technology Seminars for Teachers](http://ucitelji.sdjt.si/)
 - [Communication in Slovene](http://eng.slovenscina.eu/)
+
+### Selected publications
+
+For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliographies/si/webBiblio/bib201_20210923_153106_36491.html).
 
 ---
 ### Recent news
