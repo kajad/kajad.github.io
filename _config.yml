@@ -1,13 +1,15 @@
 logo: "/images/logo.png?raw=true"
-title: ___
+title: Kaja Dobrovoljc
 description: >
  Linguist interested in digital language resources, corpus linguistics and natural language processing.
  <br><br>
-  <a href="https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en">View My Google Scholar Profile</a>
+ View my research profiles:
+  <a href="https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://www.researchgate.net/profile/Kaja-Dobrovoljc">ResearchGate</a>
   <br><br>
-  "Contact me:"
-  kaja.dobrovoljc at ijs.si
-  kaja.dobrovoljc at ff.uni-lj.si
+  Contact me:
+  <a href="mailto:kaja.dobrovoljc@ijs.si">kaja.dobrovoljc@ijs.si</a>
+  <a href="mailto:kaja.dobrovoljc@ijs.si">kaja.dobrovoljc@ff.uni-lj.si</a>
    
    
 theme: jekyll-theme-minimal
