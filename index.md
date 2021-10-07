@@ -3,9 +3,7 @@ I am a linguist/researcher interested in design, creation and evaluation of digi
 
 I currently split my time between [Department of Translation](https://prevajalstvo.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, [Laboratory for Cognitive Modelling](https://www.fri.uni-lj.si/en/laboratory/lkm) at the Faculty of Computer and Information Science, University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute. 
 
-For more info, see my [full CV here](https://kajad.github.io/pdf/cv_kd_en_092021.pdf).
-
-<a href="kajad.github.io/pdf/cv_kd_en_092021.pdf" target="_blank">PDF.</a>
+For more info, see my <a href="kajad.github.io/pdf/cv_kd_en_092021.pdf" target="_blank">full CV here</a>.
 
 ---
 ### Research topics
