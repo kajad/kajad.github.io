@@ -23,9 +23,9 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 - [New grammar of contemporary standard Slovene: sources and methods](https://slovnica.ijs.si/?lang=en)
 - [Collocations as a Basis for Language Description: Semantic and Temporal Perspectives](https://www.cjvt.si/kolos/en/)
 - [Slovene in the Palm of Your Hand](http://projekt.slo-na-dlani.si/en/)
-- [TextLink – Structuring Discourse in Multilingual Europe](http://www.textlink.ii.metu.edu.tr/) (COST-EU)
+- [TextLink COST Action – Structuring Discourse in Multilingual Europe](http://www.textlink.ii.metu.edu.tr/)
 - [Language Resources Hub](https://viri.trojina.si/)
-- [PARSEME – Parsing and multi-word expressions](https://typo.uni-konstanz.de/parseme/) (COST-EU)
+- [PARSEME COST Action – Parsing and multi-word expressions](https://typo.uni-konstanz.de/parseme/)
 - [Language Technology Seminars for Teachers](http://ucitelji.sdjt.si/)
 - [Communication in Slovene](http://eng.slovenscina.eu/)
 
