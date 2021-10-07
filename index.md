@@ -1,4 +1,4 @@
-## Kaja Dobrovoljc
+---
 I am a linguist/researcher interested in design, creation and evaluation of digital language resources and their use in corpus linguistic research. 
 
 I currently split my time between [Department of Translation](https://prevajalstvo.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, [Laboratory for Cognitive Modelling](https://www.fri.uni-lj.si/en/laboratory/lkm) at the Faculty of Computer and Information Science, University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute. 
@@ -35,7 +35,7 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 
 ---
 ### Recent news
-- **July 2021**: Launch of the DSDE [Universal Dependencies](https://universaldependencies.org/) annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian.  
-- **April 2021**: I co-organized the [EACL 2021 Language Diversity Games](https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games) as part of the Language Diversity Panel and Games event at EACL 2021.
-- **March 2021**: I joined the [Development of Slovene in a Digital Environment](https://slovenscina.eu/en) project to work on DSDE treebank development, NLP pipeline evaluation and spoken corpus concordancer.
+- July 2021: Launch of the DSDE [Universal Dependencies](https://universaldependencies.org/) annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian. 
+- April 2021: I co-organized the [EACL 2021 Language Diversity Games](https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games) as part of the Language Diversity Panel and Games event at EACL 2021.
+- March 2021: I joined the [Development of Slovene in a Digital Environment](https://slovenscina.eu/en) project to work on DSDE treebank development, NLP pipeline evaluation and spoken corpus concordancer.
 
