@@ -17,6 +17,7 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 
 - [Development of Slovene in a Digital Environment](https://slovenscina.eu/en) (Ministry of Culture/ERDF, 2020‒2022)
 - [ELEXIS – European Lexicographic Infrastructure](https://elex.is/) (H2020-EU, 2018‒2022)
+- [SLED - Monitor Corpus for Slovene and Related Language Resources](http://sled.ijs.si/) (Ministry of Culture, 2021‒2022)
 - [Language Resources and Technologies for Slovene](http://www.sicris.si/public/jqm/prg.aspx?lang=eng&opdescr=search&opt=2&subopt=700&code1=cmn&code2=auto&psize=1&hits=1&page=1&count=&search_term=pedago%C5%A1ka%20fakulteta&id=17683&slng=&order_by=) (Slovenian Research Agency, 2018-) 
 
 ### Past projects
@@ -35,6 +36,7 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 
 ---
 ### Recent news
+- October 2021: Kick-off meeting for project [SLED: Monitor Corpus for Slovene and Related Language Resources](http://sled.ijs.si/) 
 - July 2021: Launch of the DSDE [Universal Dependencies](https://universaldependencies.org/) annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian. 
 - April 2021: I co-organized the [EACL 2021 Language Diversity Games](https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games) as part of the Language Diversity Panel and Games event at EACL 2021.
 - March 2021: I joined the [Development of Slovene in a Digital Environment](https://slovenscina.eu/en) project to work on DSDE treebank development, NLP pipeline evaluation and spoken corpus concordancer.
