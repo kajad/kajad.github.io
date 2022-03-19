@@ -1,5 +1,5 @@
 ### About me
-I am a linguist/researcher interested in design, creation and evaluation of digital language resources and their use in corpus linguistic research. 
+I am a linguist/researcher interested in design, creation and evaluation of digital language resources and their use in applied linguistic research. 
 
 I currently split my time between [Department of Translation](https://prevajalstvo.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, [Laboratory for Cognitive Modelling](https://www.fri.uni-lj.si/en/laboratory/lkm) at the Faculty of Computer and Information Science, University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute. 
 
@@ -7,10 +7,10 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 
 ---
 ### Research topics
-- Dependency syntax
-- Speech annotation
-- Discourse-relational devices
+- Linguistic annotation
+- Discourse analysis
 - Formulaic language
+- Dependency grammar
 - Language technologies
 
 ### Current projects
