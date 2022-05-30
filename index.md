@@ -36,6 +36,7 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 
 ---
 ### Recent news
+- March 2022: I am honored to be invited as a speaker at the [ESFRI 20th anniversary conference](https://www.esfri.eu/esfri-events/esfri-20years-conference?qt-event=1#qt-event) presenting the Common Language Resources and Technology Infrastructure ([CLARIN](https://www.clarin.eu/)) and its impact on my research work.
 - October 2021: Kick-off meeting for project [SLED: Monitor Corpus for Slovene and Related Language Resources](http://sled.ijs.si/) 
 - July 2021: Launch of the DSDE [Universal Dependencies](https://universaldependencies.org/) annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian. 
 - April 2021: I co-organized the [EACL 2021 Language Diversity Games](https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games) as part of the Language Diversity Panel and Games event at EACL 2021.
