@@ -36,6 +36,7 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 
 ---
 ### Recent news
+- May 2022: Looking forward to the [LREC 2022](https://lrec2022.lrec-conf.org/en/) in Marseille where I will be presenting a paper on spoken language treebanks (main conference) and a paper on the SSJ treebank extension ([LAW](https://cemantix.org/workshops/law/xvi/) workshop).
 - March 2022: I am honored to be invited as a speaker at the [ESFRI 20th anniversary conference](https://www.esfri.eu/esfri-events/esfri-20years-conference?qt-event=1#qt-event) presenting the Common Language Resources and Technology Infrastructure ([CLARIN](https://www.clarin.eu/)) and its impact on my research work.
 - October 2021: Kick-off meeting for project [SLED: Monitor Corpus for Slovene and Related Language Resources](http://sled.ijs.si/) 
 - July 2021: Launch of the DSDE [Universal Dependencies](https://universaldependencies.org/) annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian. 
