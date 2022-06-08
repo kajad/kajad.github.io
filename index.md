@@ -8,10 +8,10 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 ---
 ### Research topics
 - Linguistic annotation
-- Discourse analysis
+- Discourse structure
 - Formulaic language
-- Dependency grammar
-- Language technologies
+- Dependency syntax
+- Language technology
 
 ### Current projects
 
