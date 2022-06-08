@@ -32,7 +32,7 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 
 ### Publications
 
-For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliographies/si/webBiblio/bib201_20210923_153106_36491.html).
+For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliographies/si/webBiblio/bib201_20220608_100848_36491.html).
 
 ---
 ### Recent news
