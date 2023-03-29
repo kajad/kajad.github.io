@@ -1,7 +1,7 @@
 ### About me
 I am a linguist/researcher interested in design, creation and evaluation of digital language resources and their use in applied linguistic research. 
 
-I currently split my time between [Department of Translation](https://prevajalstvo.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute.
+I currently split my time between [Department of Slovene Studies](https://slov.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute.
 
 For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
 
@@ -15,7 +15,7 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 - Language technology
 
 ### Current projects
-- Treebank Approach to the Study of Spoken Slovenian (Slovenian Research Agency, 2022‒2024)
+- Treebank-Driven Approach to the Study of Spoken Slovenian (Slovenian Research Agency, 2022‒2024)
 - SLOKIT: Upgrading CLARIN.SI with a tool for corpus data analysis and summarization (Ministry of Culture, 2022-2023)
 
 ### Past projects
@@ -40,7 +40,7 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 
 ---
 ### Recent news
-- September 2022: Very excited to learn that my postdoctoral project proposal 'A Treebank Approach to the Study of Spoken Slovenian' has been selected for funding. Project website coming soon!
+- September 2022: Very excited to learn that my postdoctoral project proposal 'A Treebank-Driven Approach to the Study of Spoken Slovenian' has been selected for funding. Project website coming soon!
 - September 2022: Kick-off meeting of the [UniDive COST Action](https://www.cost.eu/actions/CA21167/) on universality, diversity and idiosyncrasy in language technology. I am honoured to have been elected as a co-leader of the WG1 on Corpus Annotation led by Carlos Ramisch.
 - August 2022: Kick-off meeting for SLOKIT project aimed at developing a user-friendly online interface for large-scale corpus data analysis and summarization. 
 - May 2022: Looking forward to the [LREC 2022](https://lrec2022.lrec-conf.org/en/) in Marseille where I will be presenting a paper on spoken language treebanks (main conference) and a paper on the SSJ treebank extension ([LAW](https://cemantix.org/workshops/law/xvi/) workshop).
