@@ -50,7 +50,9 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 <details>
 <summary><b>News archive</b></summary>
                           
-- Vegetables
+<li>test1</li>
+<li>test1</li>
+
 - Fruits
 - Fish
  
