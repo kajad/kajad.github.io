@@ -46,11 +46,16 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 - March 2022: I was invited as a speaker at the [ESFRI 20th anniversary conference](https://www.esfri.eu/esfri-events/esfri-20years-conference?qt-event=1#qt-event) to present the [CLARIN](https://www.clarin.eu/) infrastructure and its impact on my research work. The presentation was also featured as a [CLARIN Impact Story](https://www.clarin.eu/impact-stories/open-language-resources-smarter-artificial-intelligence).
 
 <details>
-<summary><b>News archive</b></summary>
+ 
+<summary>
+
+### News archive
+
+</summary>
  
 <li>October 2021: Kick-off meeting for project <a href="http://sled.ijs.si/">SLED: Monitor Corpus for Slovene and Related Language Resources</a>.</li>
 <li>July 2021: Launch of the DSDE <a href="https://universaldependencies.org/">Universal Dependencies</a> annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian.</li>
-<li>April 2021: I co-organized the <a href="https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games>EACL 2021 Language Diversity Games</a> as part of the Language Diversity Panel and Games event at EACL 2021.</li>
+<li>April 2021: I co-organized the <a href="https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games">EACL 2021 Language Diversity Games</a> as part of the Language Diversity Panel and Games event at EACL 2021.</li>
 <li>March 2021: I joined the <a href="https://slovenscina.eu/en">Development of Slovene in a Digital Environment</a> project to work on SSJ UD treebank extension, CLASSLA-Stanza pipeline evaluation and GOS spoken corpus concordancer.</li>
  
 </details>
