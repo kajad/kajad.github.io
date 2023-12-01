@@ -49,9 +49,11 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 
 <details>
 <summary><b>News archive</b></summary>
-
-- test last
-- test often
+ 
+<li>October 2021: Kick-off meeting for project [SLED: Monitor Corpus for Slovene and Related Language Resources](http://sled.ijs.si/)</li>
+<li>July 2021: Launch of the DSDE [Universal Dependencies](https://universaldependencies.org/) annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian.</li>
+<li>April 2021: I co-organized the [EACL 2021 Language Diversity Games](https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games) as part of the Language Diversity Panel and Games event at EACL 2021.</li>
+<li>March 2021: I joined the [Development of Slovene in a Digital Environment](https://slovenscina.eu/en) project to work on DSDE treebank development, NLP pipeline evaluation and spoken corpus concordancer.</li>
  
 </details>
 
