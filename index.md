@@ -49,12 +49,9 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 
 <details>
 <summary><b>News archive</b></summary>
-                          
-<li>test1</li>
-<li>test1</li>
 
-- Fruits
-- Fish
+- test last
+- test often
  
 </details>
 
