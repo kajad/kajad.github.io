@@ -47,11 +47,7 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 
 <details>
  
-<summary>
-
-<h3>News archive</h3>
-
-</summary>
+<summary><h3>News archive</h3></summary>
  
 <li>October 2021: Kick-off meeting for project <a href="http://sled.ijs.si/">SLED: Monitor Corpus for Slovene and Related Language Resources</a>.</li>
 <li>July 2021: Launch of the DSDE <a href="https://universaldependencies.org/">Universal Dependencies</a> annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian.</li>
