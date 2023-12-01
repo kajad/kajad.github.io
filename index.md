@@ -45,12 +45,12 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 - September 2022: Kick-off meeting of the [UniDive COST Action](https://www.cost.eu/actions/CA21167/) on universality, diversity and idiosyncrasy in language technology. I am honoured to have been elected as a co-leader of the WG1 on Corpus Annotation led by Carlos Ramisch.
 - August 2022: Kick-off meeting for SLOKIT project aimed at developing a user-friendly online interface for large-scale corpus data analysis and summarization. 
 - May 2022: Looking forward to the [LREC 2022](https://lrec2022.lrec-conf.org/en/) in Marseille where I will be presenting a paper on spoken language treebanks (main conference) and a paper on the SSJ treebank extension ([LAW](https://cemantix.org/workshops/law/xvi/) workshop).
-- March 2022: I am honoured to be invited as a speaker at the [ESFRI 20th anniversary conference](https://www.esfri.eu/esfri-events/esfri-20years-conference?qt-event=1#qt-event) to present the [CLARIN](https://www.clarin.eu/) infrastructure and its impact on my research work. The presentation was also featured as a [CLARIN Impact Story](https://www.clarin.eu/impact-stories/open-language-resources-smarter-artificial-intelligence).
+- March 2022: I was invited as a speaker at the [ESFRI 20th anniversary conference](https://www.esfri.eu/esfri-events/esfri-20years-conference?qt-event=1#qt-event) to present the [CLARIN](https://www.clarin.eu/) infrastructure and its impact on my research work. The presentation was also featured as a [CLARIN Impact Story](https://www.clarin.eu/impact-stories/open-language-resources-smarter-artificial-intelligence).
 
 <details>
 <summary><b>News archive</b></summary>
  
-<li>October 2021: Kick-off meeting for project [SLED: Monitor Corpus for Slovene and Related Language Resources](http://sled.ijs.si/)</li>
+<li>October 2021: Kick-off meeting for project <a href="http://sled.ijs.si/">SLED: Monitor Corpus for Slovene and Related Language Resources</a>"
 <li>July 2021: Launch of the DSDE [Universal Dependencies](https://universaldependencies.org/) annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian.</li>
 <li>April 2021: I co-organized the [EACL 2021 Language Diversity Games](https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games) as part of the Language Diversity Panel and Games event at EACL 2021.</li>
 <li>March 2021: I joined the [Development of Slovene in a Digital Environment](https://slovenscina.eu/en) project to work on DSDE treebank development, NLP pipeline evaluation and spoken corpus concordancer.</li>
