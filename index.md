@@ -49,7 +49,7 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
  
 <summary>
 
-### News archive
+<h3>News archive</h3>
 
 </summary>
  
