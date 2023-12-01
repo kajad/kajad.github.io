@@ -46,7 +46,6 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 - March 2022: I was invited as a speaker at the [ESFRI 20th anniversary conference](https://www.esfri.eu/esfri-events/esfri-20years-conference?qt-event=1#qt-event) to present the [CLARIN](https://www.clarin.eu/) infrastructure and its impact on my research work. The presentation was also featured as a [CLARIN Impact Story](https://www.clarin.eu/impact-stories/open-language-resources-smarter-artificial-intelligence).
 
 <details>
- 
 <summary><h3>News archive</h3></summary>
  
 <li>October 2021: Kick-off meeting for project <a href="http://sled.ijs.si/">SLED: Monitor Corpus for Slovene and Related Language Resources</a>.</li>
