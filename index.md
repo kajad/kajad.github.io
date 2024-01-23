@@ -1,5 +1,5 @@
 ### About me
-I am a linguist/researcher interested in design, creation and evaluation of digital language resources and their use in applied linguistic research. 
+I am a linguist/researcher interested in design, creation and evaluation of digital language resources and their use in corpus linguistic research. 
 
 I currently split my time between [Department of Slovene Studies](https://slov.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute.
 
@@ -7,11 +7,11 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 
 ---
 ### Research topics
-- Linguistic annotation
-- Syntactic treebanks
+- Corpus annotation
+- Dependency treebanks
 - Spoken language analysis
-- Discourse structuring
 - Formulaic language
+- Discourse connectives
 - Language technology
 
 ### Current projects
@@ -27,9 +27,9 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 - [New grammar of contemporary standard Slovene: sources and methods](https://slovnica.ijs.si/?lang=en) (2017-2020)
 - [Collocations as a Basis for Language Description: Semantic and Temporal Perspectives](https://www.cjvt.si/kolos/en/) (2017-2020)
 - [Slovene in the Palm of Your Hand](http://projekt.slo-na-dlani.si/en/) (2017-2021)
-- [TextLink COST Action – Structuring Discourse in Multilingual Europe](http://www.textlink.ii.metu.edu.tr/) (2014-2018)
+- [TextLink: Structuring Discourse in Multilingual Europe](http://www.textlink.ii.metu.edu.tr/) (2014-2018)
 - [Language Resources Hub](https://viri.trojina.si/) (2014-2015)
-- [PARSEME COST Action – Parsing and multi-word expressions](https://typo.uni-konstanz.de/parseme/) (2013-2017)
+- [PARSEME: Parsing and multi-word expressions](https://typo.uni-konstanz.de/parseme/) (2013-2017)
 - [Language Technology Seminars for Teachers](http://ucitelji.sdjt.si/) (2013-2014)
 - [Communication in Slovene](http://eng.slovenscina.eu/) (2008-2013)
 
