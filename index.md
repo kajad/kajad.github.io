@@ -9,7 +9,7 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 ### Research topics
 - Corpus annotation
 - Dependency treebanks
-- Spoken language analysis
+- Language variation
 - Formulaic language
 - Discourse connectives
 - Language technology
@@ -17,7 +17,7 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 ### Current projects
 - [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (Slovenian Research And Innovation Agency, 2022‒2024)
 - [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (CA21167 COST Action, 2022-2026)
-- [Language Resources and Technologies for Slovene](http://www.sicris.si/public/jqm/prg.aspx?lang=eng&opdescr=search&opt=2&subopt=700&code1=cmn&code2=auto&psize=1&hits=1&page=1&count=&search_term=pedago%C5%A1ka%20fakulteta&id=17683&slng=&order_by=) (Slovenian Research And Innovation Agency, 2018-)
+- [Language Resources and Technologies for Slovene](https://cris.cobiss.net/ecris/si/en/project/17683) (Slovenian Research And Innovation Agency, 2018-2024)
 
 ### Past projects
 - [SLOKIT - Upgrading CLARIN.SI with a tool for corpus data analysis and summarization](https://slokit.ijs.si/) (2022-2023)
