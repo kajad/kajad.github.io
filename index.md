@@ -1,5 +1,5 @@
 ### About me
-I am a linguist/researcher interested in design, creation and evaluation of digital language resources and their use in corpus linguistic research. 
+I am a linguist and researcher specializing in the design, evaluation, and application of language resources and technologies in corpus linguistic research.
 
 I currently split my time between [Department of Slovene Studies](https://slov.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute.
 
@@ -8,30 +8,30 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" 
 ---
 ### Research topics
 - Corpus annotation
-- Dependency treebanks
 - Language variation
 - Formulaic language
+- Dependency treebanks
 - Discourse connectives
 - Language technology
 
 ### Current projects
-- [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (Slovenian Research And Innovation Agency, 2022‒2024)
+- LLM4DH: Large Language Models for Digital Humanities (ARIS-Gravitacija, 2024‒2027)
+- [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (ARIS, 2022‒2025)
 - [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (CA21167 COST Action, 2022-2026)
-- [Language Resources and Technologies for Slovene](https://cris.cobiss.net/ecris/si/en/project/17683) (Slovenian Research And Innovation Agency, 2018-2024)
+- [Language Resources and Technologies for Slovene](https://cris.cobiss.net/ecris/si/en/project/17683) (ARIS, 2018-2024)
 
-### Past projects
-- [SLOKIT - Upgrading CLARIN.SI with a tool for corpus data analysis and summarization](https://slokit.ijs.si/) (2022-2023)
-- [Development of Slovene in a Digital Environment](https://slovenscina.eu/en) (2020-2023)
-- [ELEXIS – European Lexicographic Infrastructure](https://elex.is/) (2020-2023)
-- [SLED - Monitor Corpus for Slovene and Related Language Resources](http://sled.ijs.si/) (2021-2022)
-- [New grammar of contemporary standard Slovene: sources and methods](https://slovnica.ijs.si/?lang=en) (2017-2020)
-- [Collocations as a Basis for Language Description: Semantic and Temporal Perspectives](https://www.cjvt.si/kolos/en/) (2017-2020)
-- [Slovene in the Palm of Your Hand](http://projekt.slo-na-dlani.si/en/) (2017-2021)
+### Selected past projects
+- [SLOKIT: CLARIN.SI tool for corpus data analysis and summarization](https://slokit.ijs.si/) (2022-2023)
+- [DSDE: Development of Slovene in a Digital Environment](https://slovenscina.eu/en) (2020-2023)
+- [ELEXIS: European Lexicographic Infrastructure](https://elex.is/) (2020-2023)
+- [SLED: Monitor Corpus for Slovene and Related Resources](http://sled.ijs.si/) (2021-2022)
+- [NSSS: New grammar of contemporary standard Slovene](https://slovnica.ijs.si/?lang=en) (2017-2020)
+- [KOLOS: Collocations as a Basis for Language Description](https://www.cjvt.si/kolos/en/) (2017-2020)
 - [TextLink: Structuring Discourse in Multilingual Europe](http://www.textlink.ii.metu.edu.tr/) (2014-2018)
-- [Language Resources Hub](https://viri.trojina.si/) (2014-2015)
+- [PJV: Language Resources Hub](https://viri.trojina.si/) (2014-2015)
 - [PARSEME: Parsing and multi-word expressions](https://typo.uni-konstanz.de/parseme/) (2013-2017)
 - [Language Technology Seminars for Teachers](http://ucitelji.sdjt.si/) (2013-2014)
-- [Communication in Slovene](http://eng.slovenscina.eu/) (2008-2013)
+- [SSJ: Communication in Slovene](http://eng.slovenscina.eu/) (2008-2013)
 
 
 ### Publications
