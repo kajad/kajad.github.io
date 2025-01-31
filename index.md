@@ -41,17 +41,19 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 ---
 ### Recent news
 
-- November 2024: Release of a new, larger and improved version of the [SST UD](https://github.com/UniversalDependencies/UD_Slovenian-SST) treebank, to be used in linguistic and NLP research on Slovenian speech.
+
+- November 2024: Err, well ... We’ve just released a bigger, better, and more polished version of the [SST UD](https://github.com/UniversalDependencies/UD_Slovenian-SST) treebank, to be used in linguistic and NLP research on Slovenian speech. Embedded in [ROG](http://hdl.handle.net/11356/1992), it also features prosody, disfluency and dialogue act annotations.
 - October 2024: Excited to announce that [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) will take place in Ljubljana, Slovenia, in August 2025! This biennial conference series brings together five workshops—TLT, UDW, DepLing, IWPT, and Quasy—and will be co-located with the [1st UniDive Shared Task](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:msp) on Morphosyntactic Parsing.
-- July 2024: Release of [STARK](https://github.com/clarinsi/STARK) v3 – a significantly enhanced version of this versatile tool for bottom-up linguistic exploration of UD treebanks. 
-- October 2023: Honoured to give an invited talk on 'Cross-lingually Harmonized Approaches to Spoken Data Annotation' at [SPELLL 2023](https://www.spelll.org/SPELLL2023/index.html).
-- July 2023: Join us at [ESSLLI 2023](https://2023.esslli.eu/), the European Summer School in Logic, Language, and Information, hosted by the University of Ljubljana, where I'll be serving as the Local PC Chair.
-- October 2022: Very excited to learn that my postdoctoral project proposal '[A Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en)' has been selected for funding.
+- July 2024: Release of [STARK](https://github.com/clarinsi/STARK) v3 – a significantly enhanced version of this versatile tool for bottom-up linguistic analysis and comparison of UD treebanks. 
+http://hdl.handle.net/11356/1992
 
 <details>
 <summary><h3>News archive</h3></summary>
-
- <li>September 2022: Kick-off meeting of the <a href="https://www.cost.eu/actions/CA21167/">UniDive COST Action</a> on universality, diversity, and idiosyncrasy in language technology. I am honoured to have been elected as a co-leader of the <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=wg1:wg1">WG1 on Corpus Annotation</a>.</li>
+ 
+<li>October 2023: Honoured to give an invited talk on 'Cross-lingually Harmonized Approaches to Spoken Data Annotation' at <a href="https://www.spelll.org/SPELLL2023/index.html">SPELLL 2023</a>.</li>
+<li>July 2023: Join us at <a href="https://2023.esslli.eu/">ESSLLI 2023</a>, the European Summer School in Logic, Language, and Information, hosted by the University of Ljubljana, where I'll be serving as the Local PC Chair.</li>
+<li>October 2022: Very excited to learn that my postdoctoral project proposal '<a href="https://spot.ff.uni-lj.si/en">A Treebank-Driven Approach to the Study of Spoken Slovenian</a>' has been selected for funding.</li>
+<li>September 2022: Kick-off meeting of the <a href="https://www.cost.eu/actions/CA21167/">UniDive COST Action</a> on universality, diversity, and idiosyncrasy in language technology. I am honoured to have been elected as a co-leader of the <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=wg1:wg1">WG1 on Corpus Annotation</a>.</li>
 <li>May 2022: Looking forward to the <a href="https://lrec2022.lrec-conf.org/en/">LREC 2022</a> in Marseille where I will be presenting a paper on spoken language treebanks (main conference) and a paper on the SSJ treebank extension (<a href="https://cemantix.org/workshops/law/xvi/">LAW</a> workshop).</li>
 <li>March 2022: I was invited as a speaker at the <a href="https://www.esfri.eu/esfri-events/esfri-20years-conference?qt-event=1#qt-event">ESFRI 20th anniversary conference</a> to present the <a href="https://www.clarin.eu/">CLARIN</a> infrastructure and its impact on my research work. The presentation was also featured as a <a href="https://www.clarin.eu/impact-stories/open-language-resources-smarter-artificial-intelligence">CLARIN Impact Story</a>.</li>
 <li>October 2021: Kick-off meeting for project <a href="http://sled.ijs.si/">SLED: Monitor Corpus for Slovene and Related Language Resources</a>.</li>
@@ -60,4 +62,5 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 <li>March 2021: I joined the <a href="https://slovenscina.eu/en">Development of Slovene in a Digital Environment</a> project to work on SSJ UD treebank extension, CLASSLA-Stanza pipeline evaluation and GOS spoken corpus concordancer.</li>
  
 </details>
+
 
