@@ -45,7 +45,6 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 - November 2024: Err, well ... We’ve just released a bigger, better, and more polished version of the [SST UD](https://github.com/UniversalDependencies/UD_Slovenian-SST) treebank, to be used in linguistic and NLP research on Slovenian speech. Embedded in [ROG](http://hdl.handle.net/11356/1992), it also features prosody, disfluency and dialogue act annotations.
 - October 2024: Excited to announce that [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) will take place in Ljubljana, Slovenia, in August 2025! This biennial conference series brings together five workshops—TLT, UDW, DepLing, IWPT, and Quasy—and will be co-located with the [1st UniDive Shared Task](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:msp) on Morphosyntactic Parsing.
 - July 2024: Release of [STARK](https://github.com/clarinsi/STARK) v3 – a significantly enhanced version of this versatile tool for bottom-up linguistic analysis and comparison of UD treebanks. 
-http://hdl.handle.net/11356/1992
 
 <details>
 <summary><h3>News archive</h3></summary>
