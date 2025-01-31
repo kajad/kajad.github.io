@@ -41,8 +41,7 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 ---
 ### Recent news
 
-- November 2024: We've just released a new, bigger and better version of the SST UD treebank of spoken Slovenian, to be used in linguistic and NLP research.
-- October 2024: Sharing experience on 'Treebanking Speech: Challenges, Insights and Applications' at the ['Beyond Words' EUROPIA HAI-CC Workshop](https://sites.google.com/view/eutopia-beyond-words/home?authuser=0)
+- November 2024: Release of a new, larger and improved version of the [SST UD](https://github.com/UniversalDependencies/UD_Slovenian-SST) treebank, to be used in linguistic and NLP research on Slovenian speech.
 - October 2024: Excited to announce that [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) will take place in Ljubljana, Slovenia, in August 2025! This biennial conference series brings together five workshops—TLT, UDW, DepLing, IWPT, and Quasy—and will be co-located with the [1st UniDive Shared Task](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:msp) on Morphosyntactic Parsing.
 - July 2024: Release of [STARK](https://github.com/clarinsi/STARK) v3 – a significantly enhanced version of this versatile tool for bottom-up linguistic exploration of UD treebanks. 
 - October 2023: Honoured to give an invited talk on 'Cross-lingually Harmonized Approaches to Spoken Data Annotation' at [SPELLL 2023](https://www.spelll.org/SPELLL2023/index.html).
@@ -51,9 +50,10 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 
 <details>
 <summary><h3>News archive</h3></summary>
-<li>September 2022: Kick-off meeting of the [UniDive COST Action](https://www.cost.eu/actions/CA21167/) on universality, diversity and idiosyncrasy in language technology. I am honoured to have been elected as a co-leader of the [WG1 on Corpus Annotation](https://unidive.lisn.upsaclay.fr/doku.php?id=wg1:wg1).</li>
-<li>May 2022: Looking forward to the [LREC 2022](https://lrec2022.lrec-conf.org/en/) in Marseille where I will be presenting a paper on spoken language treebanks (main conference) and a paper on the SSJ treebank extension ([LAW](https://cemantix.org/workshops/law/xvi/) workshop).</li>
-<li>March 2022: I was invited as a speaker at the [ESFRI 20th anniversary conference](https://www.esfri.eu/esfri-events/esfri-20years-conference?qt-event=1#qt-event) to present the [CLARIN](https://www.clarin.eu/) infrastructure and its impact on my research work. The presentation was also featured as a [CLARIN Impact Story](https://www.clarin.eu/impact-stories/open-language-resources-smarter-artificial-intelligence).</li>
+
+ <li>September 2022: Kick-off meeting of the <a href="https://www.cost.eu/actions/CA21167/">UniDive COST Action</a> on universality, diversity, and idiosyncrasy in language technology. I am honoured to have been elected as a co-leader of the <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=wg1:wg1">WG1 on Corpus Annotation</a>.</li>
+<li>May 2022: Looking forward to the <a href="https://lrec2022.lrec-conf.org/en/">LREC 2022</a> in Marseille where I will be presenting a paper on spoken language treebanks (main conference) and a paper on the SSJ treebank extension (<a href="https://cemantix.org/workshops/law/xvi/">LAW</a> workshop).</li>
+<li>March 2022: I was invited as a speaker at the <a href="https://www.esfri.eu/esfri-events/esfri-20years-conference?qt-event=1#qt-event">ESFRI 20th anniversary conference</a> to present the <a href="https://www.clarin.eu/">CLARIN</a> infrastructure and its impact on my research work. The presentation was also featured as a <a href="https://www.clarin.eu/impact-stories/open-language-resources-smarter-artificial-intelligence">CLARIN Impact Story</a>.</li>
 <li>October 2021: Kick-off meeting for project <a href="http://sled.ijs.si/">SLED: Monitor Corpus for Slovene and Related Language Resources</a>.</li>
 <li>July 2021: Launch of the DSDE <a href="https://universaldependencies.org/">Universal Dependencies</a> annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian.</li>
 <li>April 2021: I co-organized the <a href="https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games">EACL 2021 Language Diversity Games</a> as part of the Language Diversity Panel and Games event at EACL 2021.</li>
