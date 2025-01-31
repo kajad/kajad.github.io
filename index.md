@@ -3,7 +3,7 @@ I am a linguist and researcher specializing in the design and evaluation of lang
 
 I currently split my time between [Department of Slovene Studies](https://slov.ff.uni-lj.si/en) at the Faculty of Arts, University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute.
 
-For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_en_092021.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
+For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-01_en.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
 
 ---
 ### Research topics
