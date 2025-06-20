@@ -9,18 +9,17 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-01_en.pdf"
 ### Research areas
 - Corpus annotation and analysis
 - Language technology and evaluation
-- Lnaguage description and variation
+- Language description and variation
 
-A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings. While the topics have ranged widely—from morphology, syntax, and lexis to semantics, discourse, and formulaic language—they share a focus on empirical analysis grounded in richly annotated corpora. I also apply this expertise in the development, training, and evaluation of language technologies—most recently in work involving large language models (LLMs).
+A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings. While the topics have ranged widely (from morphology, syntax, and lexis to semantics, discourse, and formulaic language) they share a focus on empirical analysis grounded in richly annotated corpora. I also apply this expertise in the development, training, and evaluation of language technologies of various kinds.
 
 ### Current projects
-- LLM4DH: Large Language Models for Digital Humanities (ARIS-Gravitacija, 2024‒2027)
-
+- [LLM4DH: Large Language Models for Digital Humanities](https://www.cjvt.si/llm4dh/en/project/) (ARIS-Gravity, 2024‒2027)
+- [AI4DH: Centre of Excellence in Artificial Intelligence for Digital Humanities](https://ai4dh.eu/) (Horizon Europe ERA Chair, 2025-2030) 
 - [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (CA21167 COST Action, 2022-2026)
-- [Language Resources and Technologies for Slovene](https://cris.cobiss.net/ecris/si/en/project/17683) (ARIS, 2018-2024)
 
 ### Selected past projects
-- [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (ARIS, 2022‒2025)
+- [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (2022‒2025)
 - [SLOKIT: CLARIN.SI tool for corpus data analysis and summarization](https://slokit.ijs.si/) (2022-2023)
 - [DSDE: Development of Slovene in a Digital Environment](https://slovenscina.eu/en) (2020-2023)
 - [ELEXIS: European Lexicographic Infrastructure](https://elex.is/) (2020-2023)
@@ -40,7 +39,7 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 - June 2025: It's a wrap! The [SPOT project](https://spot.ff.uni-lj.si/) officially comes to an end, leaving behind new data, tools, and methods for studying speech through parsed corpora.
 - February 2025: Kick-off of the [AI4DH Centre of Excellence](https://ai4dh.eu/), where we’re joining forces across disciplines to help researchers in the humanities and social sciences integrate AI into their work through tailored infrastructure, training and collaboration.
 - November 2024: Err, well ... We’ve just released a bigger, better, and more polished version of the [SST UD](https://github.com/UniversalDependencies/UD_Slovenian-SST) treebank, to be used in linguistic and NLP research on Slovenian speech. Embedded in [ROG](http://hdl.handle.net/11356/1992), it also features prosody, disfluency and dialogue act annotations.
-- October 2024: Excited to announce that [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) will take place in Ljubljana, Slovenia, in August 2025! This biennial conference series brings together five workshops—TLT, UDW, DepLing, IWPT, and Quasy—and will be co-located with the [1st UniDive Shared Task](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:msp) on Morphosyntactic Parsing.
+- October 2024: Excited to announce that [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) will take place in Ljubljana in August 2025-bringing together five workshops—TLT, UDW, DepLing, IWPT, and Quasy—and two [UniDive](https://unidive.lisn.upsaclay.fr/doku.php?id=ljubljana) pre-conference events.
 
 <details>
 <summary><h3>News archive</h3></summary>
