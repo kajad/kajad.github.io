@@ -3,7 +3,7 @@ I am an applied linguist and researcher specializing in the design and evaluatio
 
 I currently split my time between [Centre for Language Resources and Technologies](https://www.cjvt.si/en/) at the University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute.
 
-For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-01_en.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
+For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-09_en.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
 
 ---
 ### Research areas
