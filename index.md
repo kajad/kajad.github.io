@@ -11,15 +11,15 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-01_en.pdf"
 - Language technology and evaluation
 - Language description and variation
 
-A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings. While the topics have ranged widely (from morphology, syntax, and lexis to semantics, discourse, and formulaic language) they share a focus on empirical analysis grounded in richly annotated corpora. I also apply this expertise in the development and evaluation of language technologies of various kinds.
+A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings. While the topics have ranged widely (from morphology, syntax, and lexis to semantics, discourse, and formulaic language), they share a focus on empirical analysis grounded in richly annotated corpora. I also apply this expertise in the development and evaluation of language technologies of various kinds.
 
 ### Current projects
-- [LLM4DH: Large Language Models for Digital Humanities](https://www.cjvt.si/llm4dh/en/project/) (ARIS-Gravity, 2024‒2027)
-- [AI4DH: Centre of Excellence in Artificial Intelligence for Digital Humanities](https://ai4dh.eu/) (Horizon Europe ERA Chair, 2025-2030) 
-- [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (CA21167 COST Action, 2022-2026)
+- [LLM4DH: Large Language Models for Digital Humanities](https://www.cjvt.si/llm4dh/en/project/) (ARIS-Gravity, 2024‒2027, Leader of Task 2.3)
+- [AI4DH: Centre of Excellence in Artificial Intelligence for Digital Humanities](https://ai4dh.eu/) (Horizon Europe ERA Chair, 2025-2030, Leader of WP2) 
+- [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (CA21167 COST Action, 2022-2026, Co-leader of WG1)
 
 ### Selected past projects
-- [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (2022‒2025)
+- [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (PI, 2022‒2025)
 - [SLOKIT: CLARIN.SI tool for corpus data analysis and summarization](https://slokit.ijs.si/) (2022-2023)
 - [DSDE: Development of Slovene in a Digital Environment](https://slovenscina.eu/en) (2020-2023)
 - [ELEXIS: European Lexicographic Infrastructure](https://elex.is/) (2020-2023)
@@ -36,14 +36,16 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 ---
 ### Recent news
 
-- June 2025: It's a wrap! The [SPOT project](https://spot.ff.uni-lj.si/) officially comes to an end, leaving behind new data, tools, and methods for studying speech through parsed corpora.
+- August 2025: Honoured and proud to have chaired the Organizing Committee of [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) in Ljubljana, which brought together five workshops, two [UniDive](https://unidive.lisn.upsaclay.fr/doku.php?id=ljubljana) pre-conference events, and more than 80 presentations on empirical syntactic analysis and parsing. 
+- June 2025: It's a wrap! My postdoc [SPOT project](https://spot.ff.uni-lj.si/) officially comes to an end, leaving behind new data, tools, and methods for studying speech through syntactically parsed corpora.
 - February 2025: Kick-off of the [AI4DH Centre of Excellence](https://ai4dh.eu/), where we’re joining forces across disciplines to help researchers in the humanities and social sciences integrate AI into their work through tailored infrastructure, training and collaboration.
 - November 2024: Err, well ... We’ve just released a bigger, better, and more polished version of the [SST UD](https://github.com/UniversalDependencies/UD_Slovenian-SST) treebank, to be used in linguistic and NLP research on Slovenian speech. Embedded in [ROG](http://hdl.handle.net/11356/1992), it also features prosody, disfluency and dialogue act annotations.
-- October 2024: Excited to announce that [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) will take place in Ljubljana in August 2025-bringing together five workshops—TLT, UDW, DepLing, IWPT, and Quasy—and two [UniDive](https://unidive.lisn.upsaclay.fr/doku.php?id=ljubljana) pre-conference events.
-
+  
 <details>
 <summary><h3>News archive</h3></summary>
 
+<li>October 2024: Excited to announce that <a href="https://syntaxfest.github.io/syntaxfest25/">SyntaxFest 2025</a> will take place in Ljubljana in August 2025-bringing together five workshops—TLT, UDW, DepLing, IWPT, and Quasy—and two <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=ljubljana">UniDive</a> pre-conference events.
+</li>
 <li>July 2024: Release of <a href="https://github.com/clarinsi/STARK">STARK v3</a> – a significantly enhanced version of this versatile tool for bottom-up linguistic analysis and comparison of UD treebanks.</li>
 <li>October 2023: Honoured to give an invited talk on 'Cross-lingually Harmonized Approaches to Spoken Data Annotation' at <a href="https://www.spelll.org/SPELLL2023/index.html">SPELLL 2023</a>.</li>
 <li>July 2023: Join us at <a href="https://2023.esslli.eu/">ESSLLI 2023</a>, the European Summer School in Logic, Language, and Information, hosted by the University of Ljubljana, where I'll be serving as the Local PC Chair.</li>
@@ -55,7 +57,6 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 <li>July 2021: Launch of the DSDE <a href="https://universaldependencies.org/">Universal Dependencies</a> annotation campaign aiming at 5,000 new manually parsed sentences for Slovenian.</li>
 <li>April 2021: I co-organized the <a href="https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games">EACL 2021 Language Diversity Games</a> as part of the Language Diversity Panel and Games event at EACL 2021.</li>
 <li>March 2021: I joined the <a href="https://slovenscina.eu/en">Development of Slovene in a Digital Environment</a> project to work on SSJ UD treebank extension, CLASSLA-Stanza pipeline evaluation and GOS spoken corpus concordancer.</li>
- 
 </details>
 
 
