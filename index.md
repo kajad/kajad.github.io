@@ -1,7 +1,7 @@
 ### About me
 I am an applied linguist and researcher specializing in the design and evaluation of language resources and technologies, with a focus on their application in corpus linguistic research.
 
-I currently split my time between [Centre for Language Resources and Technologies](https://www.cjvt.si/en/) at the University of Ljubljana, and [Department for Artificial Intelligence](https://ailab.ijs.si/) at the Jožef Stefan Institute.
+I currently split my time between [Centre for Language Resources and Technologies](https://www.cjvt.si/en/) at the University of Ljubljana, and [CLARIN.SI](https://www.clarin.si/info/about/) at the Jožef Stefan Institute.
 
 For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-09_en.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
 
@@ -14,18 +14,23 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-09_en.pdf"
 A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings. While the topics have ranged widely (from morphology, syntax, and lexis to semantics, discourse, and formulaic language), they share a focus on empirical analysis grounded in richly annotated corpora. I also apply this expertise in the development and evaluation of language technologies of various kinds.
 
 ### Current projects
-- [LLM4DH: Large Language Models for Digital Humanities](https://www.cjvt.si/llm4dh/en/project/) (ARIS-Gravity, 2024‒2027, Leader of Task 2.3)
-- [AI4DH: Centre of Excellence in Artificial Intelligence for Digital Humanities](https://ai4dh.eu/) (Horizon Europe ERA Chair, 2025-2030, Leader of WP2) 
-- [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (CA21167 COST Action, 2022-2026, Co-leader of WG1)
+- [LLM4DH: Large Language Models for Digital Humanities](https://www.cjvt.si/llm4dh/en/project/) (ARIS-Gravity, 2024‒2027)
+    - T2.3 - Advanced grammatical analysis of multilingual corpora  
+- [AI4DH: Centre of Excellence in Artificial Intelligence for Digital Humanities](https://ai4dh.eu/) (Horizon Europe ERA Chair, 2025-2030)
+    - WP2 - Infrastructure and Research Challenges
+- [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (CA21167 COST Action, 2022-2026)
+    - WG1 - Corpus Annotation   
 
 ### Selected past projects
 - [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (PI, 2022‒2025)
+<!---
 - [SLOKIT: CLARIN.SI tool for corpus data analysis and summarization](https://slokit.ijs.si/) (2022-2023)
 - [DSDE: Development of Slovene in a Digital Environment](https://slovenscina.eu/en) (2020-2023)
 - [ELEXIS: European Lexicographic Infrastructure](https://elex.is/) (2020-2023)
 - [SLED: Monitor Corpus for Slovene and Related Resources](http://sled.ijs.si/) (2021-2022)
 - [NSSS: New grammar of contemporary standard Slovene](https://slovnica.ijs.si/?lang=en) (2017-2020)
 - [Language Technology Seminars for Teachers](http://ucitelji.sdjt.si/) (2013-2014)
+-->
 
 
 
