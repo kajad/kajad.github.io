@@ -15,9 +15,8 @@ A common thread in my work is the use of state-of-the-art resources and tools fo
 
 ### Current projects
 - [LLM4DH: Large Language Models for Digital Humanities](https://www.cjvt.si/llm4dh/en/project/) (ARIS, 2024‒2027) – T2.3: Advanced grammatical analysis of multilingual corpora
-      
-- [AI4DH: Centre of Excellence in Artificial Intelligence for Digital Humanities](https://ai4dh.eu/) (Horizon Europe, 2025-2030) – WP2: Infrastructure and Research Challenges
-- [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (COST, 2022-2026) – WG1: Corpus Annotation   
+- [AI4DH: Centre of Excellence in Artificial Intelligence for Digital Humanities](https://ai4dh.eu/) (Horizon Europe, 2025‒2030) – WP2: Infrastructure and Research Challenges
+- [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (COST Action, 2022‒2026) – WG1: Corpus Annotation   
 
 ### Selected past projects
 - [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (Principal Investigator, 2022‒2025)
