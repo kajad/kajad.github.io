@@ -19,7 +19,7 @@ A common thread in my work is the use of state-of-the-art resources and tools fo
 - [UniDive: Universality, diversity and idiosyncrasy in language technology](https://www.cost.eu/actions/CA21167/) (COST Action, 2022‒2026) – WG1: Corpus Annotation   
 
 ### Selected past projects
-- [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (Principal Investigator, 2022‒2025)
+- [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (ARIS, 2022‒2025, Principal Investigator)
 {% comment %}
 - [SLOKIT: CLARIN.SI tool for corpus data analysis and summarization](https://slokit.ijs.si/) (2022-2023)
 - [DSDE: Development of Slovene in a Digital Environment](https://slovenscina.eu/en) (2020-2023)
