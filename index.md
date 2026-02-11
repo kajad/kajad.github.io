@@ -23,7 +23,7 @@ A common thread in my work is the use of state-of-the-art resources and tools fo
 
 ### Selected past projects
 - [SPOT: Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en) (PI, 2022‒2025)
-<!---
+<!--
 - [SLOKIT: CLARIN.SI tool for corpus data analysis and summarization](https://slokit.ijs.si/) (2022-2023)
 - [DSDE: Development of Slovene in a Digital Environment](https://slovenscina.eu/en) (2020-2023)
 - [ELEXIS: European Lexicographic Infrastructure](https://elex.is/) (2020-2023)
