@@ -1,7 +1,7 @@
 ### About me
 I am an applied linguist and researcher specializing in the design and evaluation of language resources and technologies, with a focus on their application in corpus linguistic research.
 
-I currently split my time between [Centre for Language Resources and Technologies](https://www.cjvt.si/en/) at the University of Ljubljana, and [CLARIN.SI](https://www.clarin.si/info/about/) at the Jožef Stefan Institute.
+I am affiliated with the University of Ljubljana ([AI4DH Centre of Excellence](https://ai4dh.eu/); [Centre for Language Resources and Technologies](https://www.cjvt.si/en/)) and collaborate closely with [CLARIN.SI](https://www.clarin.si/info/about/) at the Jožef Stefan Institute. 
 
 For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-09_en.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
 
