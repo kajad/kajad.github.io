@@ -11,7 +11,7 @@ For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-09_en.pdf"
 - Language technology and evaluation
 - Language description and variation
 
-A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings. While the topics have ranged widely (from morphology, syntax, and lexis to semantics, discourse, and formulaic language), they share a focus on empirical analysis grounded in richly annotated corpora. I also apply this expertise in the development and evaluation of language technologies of various kinds.
+A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings. While the topics have ranged widely (from morphosyntax and lexical semantics to discourse organization and formulaic language), they share a focus on empirical analysis grounded in richly annotated corpora. I also apply this expertise in the development and evaluation of language technologies of various kinds.
 
 ### Current projects
 - [LLM4DH: Large Language Models for Digital Humanities](https://www.cjvt.si/llm4dh/en/project/) (ARIS, 2024‒2027) – T2.3: Advanced grammatical analysis of multilingual corpora
