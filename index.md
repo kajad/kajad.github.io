@@ -1,9 +1,9 @@
 ### About me
 I am a full-time researcher specializing in the design and evaluation of language resources and technologies, with a focus on their application in corpus linguistic research.
 
-A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings, such as written, spoken and AI-generated language. I also apply this expertise in the development and evaluation of language technologies of various kinds.
+A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings, such as written, spoken and AI-generated language. I also apply this expertise in the development and evaluation of language resources and technologies of various kinds.
 
-I am currently affiliated with the University of Ljubljana ([Centre of Excellence for AI in Digital Humanities](https://ai4dh.eu/) and [Centre for Language Resources and Technologies](https://www.cjvt.si/en/)) and collaborate closely with [CLARIN.SI](https://www.clarin.si/info/about/) at the Jožef Stefan Institute ([AILab](https://ailab.ijs.si/)). 
+I am currently affiliated with the University of Ljubljana ([Centre for Language Resources and Technologies](https://www.cjvt.si/en/)) and [Centre of Excellence for AI in Digital Humanities](https://ai4dh.eu/)) and collaborate closely with [CLARIN.SI](https://www.clarin.si/info/about/) at the Jožef Stefan Institute ([AI Lab](https://ailab.ijs.si/)). 
 
 For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-09_en.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
 
