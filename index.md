@@ -1,17 +1,17 @@
 ### About me
-I am an applied linguist and researcher specializing in the design and evaluation of language resources and technologies, with a focus on their application in corpus linguistic research.
+I am a full-time researcher specializing in the design and evaluation of language resources and technologies, with a focus on their application in corpus linguistic research.
 
-I am affiliated with the University of Ljubljana ([AI4DH Centre of Excellence](https://ai4dh.eu/) and [Centre for Language Resources and Technologies](https://www.cjvt.si/en/)) and collaborate closely with [CLARIN.SI](https://www.clarin.si/info/about/) at the Jožef Stefan Institute. 
+A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings, such as written, spoken, and AI-generated language. I also apply this expertise in the development and evaluation of language technologies of various kinds.
+
+I am currently affiliated with the University of Ljubljana ([Centre of Excellence for AI in Digital Humanities](https://ai4dh.eu/) and [Centre for Language Resources and Technologies](https://www.cjvt.si/en/)) and collaborate closely with [CLARIN.SI](https://www.clarin.si/info/about/) at the Jožef Stefan Institute ([AILab](https://ailab.ijs.si/)). 
 
 For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-09_en.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
 
 ---
 ### Research areas
-- Corpus annotation and analysis
-- Language technology and evaluation
-- Language description and variation
-
-A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings. While the topics have ranged widely, spanning multiple levels of linguistic analysis (from morphosyntax and lexical semantics to discourse structuring and formulaic language) as well as diverse contexts of language use (written, spoken, online and AI-generated language), they share a focus on empirical analysis grounded in richly annotated corpora. I also apply this expertise in the development and evaluation of language technologies of various kinds.
+- Data-driven language analysis and modeling
+- Language resources and technologies for Slovene
+- Evaluation and analysis of large language models
 
 ### Current projects
 - [LLM4DH: Large Language Models for Digital Humanities](https://www.cjvt.si/llm4dh/en/project/) (ARIS, 2024‒2027) – T2.3: Advanced grammatical analysis of multilingual corpora
@@ -38,7 +38,10 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 ---
 ### Recent news
 
-- August 2025: Honoured and proud to have chaired the Organizing Committee of [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) in Ljubljana, which brought together five workshops, two [UniDive](https://unidive.lisn.upsaclay.fr/doku.php?id=ljubljana) pre-conference events, and more than 80 presentations on empirical syntactic analysis and parsing. 
+- May 2026: Co-organizing the [Universal Dependencies Workshop](https://universaldependencies.org/udw26/) at LREC-COLING 2026, and contributing to papers on ROG multi-layer spoken corpus, UniDive annotation tool survey, and the ADMIRE and UNER multilingual benchmarks.
+- March 2026: We presented [DELTA](https://aclanthology.org/2026.eacl-demo.6/), a toolkit for multi-level and multi-dimensional measurement of linguistic diversity in parsed corpora, at EACL 2026.
+- February 2026: [Counting Trees](https://www.degruyterbrill.com/document/doi/10.1515/cllt-2025-0046/html?srsltid=AfmBOorvjjfXqgrcCM13v2J_f-CePhCLUMLlp7v8fWKiUopyXj8Pn_NJ) is out in _Corpus Linguistics and Linguistic Theory_, introducing a novel [STARK](https://github.com/clarinsi/STARK)-based method for bottom-up analysis of syntactic variation across corpora.
+- August 2025: Honoured and proud to have chaired the Organizing Committee of [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) in Ljubljana, which brought together five workshops (IWPT, UDW, DepLing, TLT, QUASY), two [UniDive](https://unidive.lisn.upsaclay.fr/doku.php?id=ljubljana) pre-conference events, and more than 80 presentations on empirical syntactic analysis and parsing. 
 - June 2025: It's a wrap! My postdoc [SPOT project](https://spot.ff.uni-lj.si/) officially comes to an end, leaving behind new data, tools, and methods for studying speech through syntactically parsed corpora.
 - February 2025: Kick-off of the [AI4DH Centre of Excellence](https://ai4dh.eu/), where we’re joining forces across disciplines to help researchers in the humanities and social sciences integrate AI into their work through tailored infrastructure, training and collaboration.
 - November 2024: Err, well ... We’ve just released a bigger, better, and more polished version of the [SST UD](https://github.com/UniversalDependencies/UD_Slovenian-SST) treebank, to be used in linguistic and NLP research on Slovenian speech. Embedded in [ROG](http://hdl.handle.net/11356/1992), it also features prosody, disfluency and dialogue act annotations.
