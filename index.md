@@ -3,13 +3,14 @@ I am a full-time researcher specializing in the design and evaluation of languag
 
 A common thread in my work is the use of state-of-the-art resources and tools for data-driven exploration of how language functions in different communicative settings, such as written, spoken and AI-generated language. I also apply this expertise in the development and evaluation of language resources and technologies of various kinds.
 
-I am currently affiliated with the University of Ljubljana ([Centre for Language Resources and Technologies](https://www.cjvt.si/en/)) and [Centre of Excellence for AI in Digital Humanities](https://ai4dh.eu/)) and collaborate closely with [CLARIN.SI](https://www.clarin.si/info/about/) at the Jožef Stefan Institute ([AI Lab](https://ailab.ijs.si/)). 
+I am currently affiliated with the University of Ljubljana ([Centre for Language Resources and Technologies](https://www.cjvt.si/en/) and [Centre of Excellence for AI in Digital Humanities](https://ai4dh.eu/)) and collaborate closely with [CLARIN.SI](https://www.clarin.si/info/about/) at the Jožef Stefan Institute ([AI Lab](https://ailab.ijs.si/)). 
 
 For more info, see my <a href="https://kajad.github.io/pdf/cv_kd_2025-09_en.pdf" target="_blank">full CV here</a>, or view my profiles on [Google Scholar](https://scholar.google.com/citations?user=KWq-H4AAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kaja-Dobrovoljc).
 
 ---
 ### Research areas
 - Data-driven language analysis and modeling
+- Multi-level linguistic profiling of corpora (lexis, syntax, discourse)
 - Language resources and technologies for Slovene
 - Evaluation and analysis of large language models
 
@@ -38,17 +39,17 @@ For a full list, please see the [SICRIS database](https://bib.cobiss.net/bibliog
 ---
 ### Recent news
 
-- May 2026: Co-organizing the [Universal Dependencies Workshop](https://universaldependencies.org/udw26/) at LREC-COLING 2026, and contributing to papers on ROG multi-layer spoken corpus, UniDive annotation tool survey, and the ADMIRE and UNER multilingual benchmarks.
+- May 2026: Co-organizing the [Universal Dependencies Workshop](https://universaldependencies.org/udw26/) at LREC-COLING 2026, and contributing to papers on [ROG multi-layer spoken corpus](https://lrec.elra.info/lrec2026-main-449), [UniDive annotation tools](https://lrec.elra.info/lrec2026-main-905) survey, and the [ADMIRE](https://lrec.elra.info/lrec2026-main-741) and [UNER](https://lrec.elra.info/lrec2026-main-525) multilingual benchmarks.
 - March 2026: We presented [DELTA](https://aclanthology.org/2026.eacl-demo.6/), a toolkit for multi-level and multi-dimensional measurement of linguistic diversity in parsed corpora, at EACL 2026.
 - February 2026: [Counting Trees](https://www.degruyterbrill.com/document/doi/10.1515/cllt-2025-0046/html?srsltid=AfmBOorvjjfXqgrcCM13v2J_f-CePhCLUMLlp7v8fWKiUopyXj8Pn_NJ) is out in _Corpus Linguistics and Linguistic Theory_, introducing a novel [STARK](https://github.com/clarinsi/STARK)-based method for bottom-up analysis of syntactic variation across corpora.
 - August 2025: Honoured and proud to have chaired the Organizing Committee of [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/) in Ljubljana, which brought together five workshops (IWPT, UDW, DepLing, TLT, QUASY), two [UniDive](https://unidive.lisn.upsaclay.fr/doku.php?id=ljubljana) pre-conference events, and more than 80 presentations on empirical syntactic analysis and parsing. 
 - June 2025: It's a wrap! My postdoc [SPOT project](https://spot.ff.uni-lj.si/) officially comes to an end, leaving behind new data, tools, and methods for studying speech through syntactically parsed corpora.
-- February 2025: Kick-off of the [AI4DH Centre of Excellence](https://ai4dh.eu/), where we’re joining forces across disciplines to help researchers in the humanities and social sciences integrate AI into their work through tailored infrastructure, training and collaboration.
 - November 2024: Err, well ... We’ve just released a bigger, better, and more polished version of the [SST UD](https://github.com/UniversalDependencies/UD_Slovenian-SST) treebank, to be used in linguistic and NLP research on Slovenian speech. Embedded in [ROG](http://hdl.handle.net/11356/1992), it also features prosody, disfluency and dialogue act annotations.
   
 <details>
 <summary><h3>News archive</h3></summary>
 
+<li>February 2025: Kick-off of the <a href="https://ai4dh.eu/">AI4DH Centre of Excellence</a>, where we’re joining forces across disciplines to help researchers in the humanities and social sciences integrate AI into their work through tailored infrastructure, training and collaboration.</li>
 <li>October 2024: Excited to announce that <a href="https://syntaxfest.github.io/syntaxfest25/">SyntaxFest 2025</a> will take place in Ljubljana in August 2025-bringing together five workshops—TLT, UDW, DepLing, IWPT, and Quasy—and two <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=ljubljana">UniDive</a> pre-conference events.
 </li>
 <li>July 2024: Release of <a href="https://github.com/clarinsi/STARK">STARK v3</a> – a significantly enhanced version of this versatile tool for bottom-up linguistic analysis and comparison of UD treebanks.</li>
